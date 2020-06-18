@@ -1,8 +1,8 @@
 {
-  "name": "webpack-clear-console",
+  "name": "webpack-console-clear",
   "version": "1.0.1",
   "description": "Webpack clear console plugin",
-  "main": "webpack-clear-console.js",
+  "main": "webpack-console-clear.js",
   "devDependencies": {
     "eslint": "^7.2.0",
     "eslint-config-standard": "^14.1.1",
