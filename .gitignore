@@ -1,9 +1,10 @@
 \.git
 
 \.project
-\node_modules
+node_modules
 
 # Build
 coverage
 demo/stats.json
 demo/build*
+.idea

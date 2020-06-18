@@ -1,6 +1,6 @@
 /**
- * Created by yasemin on 07/11/16.
+ * Created by xyc on 06.18.2020
  */
-module.exports={
-    WebpackClearConsole:require("./lib/webpack-clear-console.js")
+module.exports = {
+  WebpackConsoleClear: require('./lib/webpack-console-clear.js')
 }

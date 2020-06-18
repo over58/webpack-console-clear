@@ -1,11 +1,13 @@
 /**
- * Created by yasem on 10.07.2016.
+ * Created by xyc on 06.18.2020
  */
-//Demo file created for test
-function testFile(){
-        console.log("These");
-        console.warn('console');
-        console.error('statements');
-        console.dir({ will: be, removed: "true" })
-        console.log("except for this one!");/*NotClearConsole*/
+
+function testFile () {
+  console.log('These')
+  console.warn('console')
+  console.error('statements')
+  console.dir({ will: 'be', removed: 'true' })
+  console.log('except for this one!')/* NotClearConsole */
 }
+
+testFile()
